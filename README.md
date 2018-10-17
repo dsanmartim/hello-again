@@ -1,2 +1,3 @@
 # hello-again
-Just another repository after a while
+
+This repository is nothing but a classical hello world...
